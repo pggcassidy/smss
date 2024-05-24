@@ -1,4 +1,4 @@
-# SMS Activate：国外虚拟接码平台使用指南 | 技术白
+# SMS Activate：国外虚拟接码平台使用指南
 
 ## 介绍
 
